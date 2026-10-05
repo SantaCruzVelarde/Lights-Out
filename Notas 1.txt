@@ -1,0 +1,2 @@
+Buenas Profesor, le comento, tiene que hacer la terminal 6 veces mas pequeña para que quepa todo en la dificultad mas alta.
+Solo requiere la librería de Keyboard y cambie el controlador para que se active el modo ayuda con la "a", gracias.
