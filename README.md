@@ -31,4 +31,6 @@ Controles mostrados dentro de la interfaz.
 
 Es necesario tener Python instalado.
 
-Asi como los archivos Carlos.py y controlador_teclado.py para que funcione correctamente.
+Asi como los archivos comandos_consola.py y controlador_teclado.py para que funcione correctamente.
+
+Además se debe hacer la terminal 6 veces mas pequeña para que quepa perfectamente.
